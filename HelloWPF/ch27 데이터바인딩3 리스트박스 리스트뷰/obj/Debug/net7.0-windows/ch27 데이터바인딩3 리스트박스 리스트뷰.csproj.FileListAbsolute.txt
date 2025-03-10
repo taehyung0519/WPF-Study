@@ -1,0 +1,20 @@
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\bin\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.exe
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\bin\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.deps.json
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\bin\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.runtimeconfig.json
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\bin\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.dll
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\bin\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.pdb
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\App.g.cs
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰_MarkupCompile.cache
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰_MarkupCompile.lref
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\MainWindow.baml
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.g.resources
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.AssemblyInfoInputs.cache
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.AssemblyInfo.cs
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.csproj.CoreCompileInputs.cache
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.dll
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\refint\ch27 데이터바인딩3 리스트박스 리스트뷰.dll
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.pdb
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\ch27 데이터바인딩3 리스트박스 리스트뷰.genruntimeconfig.cache
+F:\Study\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\ref\ch27 데이터바인딩3 리스트박스 리스트뷰.dll

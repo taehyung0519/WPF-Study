@@ -1,0 +1,20 @@
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\bin\Debug\net7.0-windows\ch24 컨텍스트메뉴.exe
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\bin\Debug\net7.0-windows\ch24 컨텍스트메뉴.deps.json
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\bin\Debug\net7.0-windows\ch24 컨텍스트메뉴.runtimeconfig.json
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\bin\Debug\net7.0-windows\ch24 컨텍스트메뉴.dll
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\bin\Debug\net7.0-windows\ch24 컨텍스트메뉴.pdb
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\App.g.cs
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\ch24 컨텍스트메뉴_MarkupCompile.cache
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\ch24 컨텍스트메뉴_MarkupCompile.lref
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\MainWindow.baml
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\ch24 컨텍스트메뉴.g.resources
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\ch24 컨텍스트메뉴.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\ch24 컨텍스트메뉴.AssemblyInfoInputs.cache
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\ch24 컨텍스트메뉴.AssemblyInfo.cs
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\ch24 컨텍스트메뉴.csproj.CoreCompileInputs.cache
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\ch24 컨텍스트메뉴.dll
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\refint\ch24 컨텍스트메뉴.dll
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\ch24 컨텍스트메뉴.pdb
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\ch24 컨텍스트메뉴.genruntimeconfig.cache
+F:\Study\HelloWPF\ch24 컨텍스트메뉴\obj\Debug\net7.0-windows\ref\ch24 컨텍스트메뉴.dll

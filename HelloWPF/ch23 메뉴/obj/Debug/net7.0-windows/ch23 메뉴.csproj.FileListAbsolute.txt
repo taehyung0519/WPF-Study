@@ -1,0 +1,22 @@
+F:\Study\HelloWPF\ch23 메뉴\bin\Debug\net7.0-windows\ch23 메뉴.exe
+F:\Study\HelloWPF\ch23 메뉴\bin\Debug\net7.0-windows\ch23 메뉴.deps.json
+F:\Study\HelloWPF\ch23 메뉴\bin\Debug\net7.0-windows\ch23 메뉴.runtimeconfig.json
+F:\Study\HelloWPF\ch23 메뉴\bin\Debug\net7.0-windows\ch23 메뉴.dll
+F:\Study\HelloWPF\ch23 메뉴\bin\Debug\net7.0-windows\ch23 메뉴.pdb
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\App.g.cs
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\ch23 메뉴_MarkupCompile.cache
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\ch23 메뉴_MarkupCompile.lref
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\MainWindow.baml
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\ch23 메뉴.g.resources
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\ch23 메뉴.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\ch23 메뉴.AssemblyInfoInputs.cache
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\ch23 메뉴.AssemblyInfo.cs
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\ch23 메뉴.csproj.CoreCompileInputs.cache
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\ch23 메뉴.dll
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\refint\ch23 메뉴.dll
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\ch23 메뉴.pdb
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\ch23 메뉴.genruntimeconfig.cache
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\ref\ch23 메뉴.dll
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\UserControl1.g.cs
+F:\Study\HelloWPF\ch23 메뉴\obj\Debug\net7.0-windows\UserControl1.baml

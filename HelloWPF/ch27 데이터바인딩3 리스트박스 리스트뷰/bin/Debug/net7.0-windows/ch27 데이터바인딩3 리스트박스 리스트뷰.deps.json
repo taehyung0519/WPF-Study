@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ch27 데이터바인딩3 리스트박스 리스트뷰/1.0.0": {
+        "runtime": {
+          "ch27 데이터바인딩3 리스트박스 리스트뷰.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ch27 데이터바인딩3 리스트박스 리스트뷰/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

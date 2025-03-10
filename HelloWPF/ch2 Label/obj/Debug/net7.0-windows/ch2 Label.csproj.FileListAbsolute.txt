@@ -1,0 +1,40 @@
+F:\Study\HelloWPF\ch2 Label\bin\Debug\net7.0-windows\ch2 Label.exe
+F:\Study\HelloWPF\ch2 Label\bin\Debug\net7.0-windows\ch2 Label.deps.json
+F:\Study\HelloWPF\ch2 Label\bin\Debug\net7.0-windows\ch2 Label.runtimeconfig.json
+F:\Study\HelloWPF\ch2 Label\bin\Debug\net7.0-windows\ch2 Label.dll
+F:\Study\HelloWPF\ch2 Label\bin\Debug\net7.0-windows\ch2 Label.pdb
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\App.g.cs
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label_MarkupCompile.cache
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label_MarkupCompile.lref
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\MainWindow.baml
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.g.resources
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.AssemblyInfoInputs.cache
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.AssemblyInfo.cs
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.csproj.CoreCompileInputs.cache
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.dll
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\refint\ch2 Label.dll
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.pdb
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.genruntimeconfig.cache
+F:\Study\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ref\ch2 Label.dll
+C:\develop\WPF\HelloWPF\ch2 Label\bin\Debug\net7.0-windows\ch2 Label.exe
+C:\develop\WPF\HelloWPF\ch2 Label\bin\Debug\net7.0-windows\ch2 Label.deps.json
+C:\develop\WPF\HelloWPF\ch2 Label\bin\Debug\net7.0-windows\ch2 Label.runtimeconfig.json
+C:\develop\WPF\HelloWPF\ch2 Label\bin\Debug\net7.0-windows\ch2 Label.dll
+C:\develop\WPF\HelloWPF\ch2 Label\bin\Debug\net7.0-windows\ch2 Label.pdb
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\App.g.cs
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label_MarkupCompile.cache
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label_MarkupCompile.lref
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\MainWindow.baml
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.g.resources
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.GeneratedMSBuildEditorConfig.editorconfig
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.AssemblyInfoInputs.cache
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.AssemblyInfo.cs
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.csproj.CoreCompileInputs.cache
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.dll
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\refint\ch2 Label.dll
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.pdb
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ch2 Label.genruntimeconfig.cache
+C:\develop\WPF\HelloWPF\ch2 Label\obj\Debug\net7.0-windows\ref\ch2 Label.dll

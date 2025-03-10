@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yi9CFLInaEU=",
+  "success": true,
+  "projectFilePath": "C:\\develop\\WPF\\HelloWPF\\ch27 데이터바인딩3 리스트박스 리스트뷰\\ch27 데이터바인딩3 리스트박스 리스트뷰.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\taehy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

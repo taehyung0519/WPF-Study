@@ -1,0 +1,20 @@
+F:\Study\HelloWPF\ch3 텍스트블럭\bin\Debug\net7.0-windows\ch3 텍스트블럭.exe
+F:\Study\HelloWPF\ch3 텍스트블럭\bin\Debug\net7.0-windows\ch3 텍스트블럭.deps.json
+F:\Study\HelloWPF\ch3 텍스트블럭\bin\Debug\net7.0-windows\ch3 텍스트블럭.runtimeconfig.json
+F:\Study\HelloWPF\ch3 텍스트블럭\bin\Debug\net7.0-windows\ch3 텍스트블럭.dll
+F:\Study\HelloWPF\ch3 텍스트블럭\bin\Debug\net7.0-windows\ch3 텍스트블럭.pdb
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\App.g.cs
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\ch3 텍스트블럭_MarkupCompile.cache
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\ch3 텍스트블럭_MarkupCompile.lref
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\MainWindow.baml
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\ch3 텍스트블럭.g.resources
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\ch3 텍스트블럭.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\ch3 텍스트블럭.AssemblyInfoInputs.cache
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\ch3 텍스트블럭.AssemblyInfo.cs
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\ch3 텍스트블럭.csproj.CoreCompileInputs.cache
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\ch3 텍스트블럭.dll
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\refint\ch3 텍스트블럭.dll
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\ch3 텍스트블럭.pdb
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\ch3 텍스트블럭.genruntimeconfig.cache
+F:\Study\HelloWPF\ch3 텍스트블럭\obj\Debug\net7.0-windows\ref\ch3 텍스트블럭.dll

@@ -1,0 +1,26 @@
+F:\Study\HelloWPF\ch32 스타일\bin\Debug\net7.0-windows\ch32 스타일.exe
+F:\Study\HelloWPF\ch32 스타일\bin\Debug\net7.0-windows\ch32 스타일.deps.json
+F:\Study\HelloWPF\ch32 스타일\bin\Debug\net7.0-windows\ch32 스타일.runtimeconfig.json
+F:\Study\HelloWPF\ch32 스타일\bin\Debug\net7.0-windows\ch32 스타일.dll
+F:\Study\HelloWPF\ch32 스타일\bin\Debug\net7.0-windows\ch32 스타일.pdb
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\App.g.cs
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\ch32 스타일_MarkupCompile.cache
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\ch32 스타일_MarkupCompile.lref
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\MainWindow.baml
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\ch32 스타일.g.resources
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\ch32 스타일.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\ch32 스타일.AssemblyInfoInputs.cache
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\ch32 스타일.AssemblyInfo.cs
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\ch32 스타일.csproj.CoreCompileInputs.cache
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\ch32 스타일.dll
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\refint\ch32 스타일.dll
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\ch32 스타일.pdb
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\ch32 스타일.genruntimeconfig.cache
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\ref\ch32 스타일.dll
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\Page1.g.cs
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\UserControl1.g.cs
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\App.baml
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\Page1.baml
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\UserControl1.baml
+F:\Study\HelloWPF\ch32 스타일\obj\Debug\net7.0-windows\Dictionary1.baml

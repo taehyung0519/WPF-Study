@@ -1,0 +1,22 @@
+F:\Study\HelloWPF\ch34 MVVM\bin\Debug\net7.0-windows\ch34 MVVM.exe
+F:\Study\HelloWPF\ch34 MVVM\bin\Debug\net7.0-windows\ch34 MVVM.deps.json
+F:\Study\HelloWPF\ch34 MVVM\bin\Debug\net7.0-windows\ch34 MVVM.runtimeconfig.json
+F:\Study\HelloWPF\ch34 MVVM\bin\Debug\net7.0-windows\ch34 MVVM.dll
+F:\Study\HelloWPF\ch34 MVVM\bin\Debug\net7.0-windows\ch34 MVVM.pdb
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\App.g.cs
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM_MarkupCompile.cache
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM_MarkupCompile.lref
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\MainWindow.baml
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.g.resources
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.AssemblyInfoInputs.cache
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.AssemblyInfo.cs
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.csproj.CoreCompileInputs.cache
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.dll
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\refint\ch34 MVVM.dll
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.pdb
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.genruntimeconfig.cache
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\ref\ch34 MVVM.dll
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\Views\PersonView.g.cs
+F:\Study\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\Views\PersonView.baml

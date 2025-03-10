@@ -1,0 +1,20 @@
+F:\Study\HelloWPF\ch16 독패널\bin\Debug\net7.0-windows\ch16 독패널.exe
+F:\Study\HelloWPF\ch16 독패널\bin\Debug\net7.0-windows\ch16 독패널.deps.json
+F:\Study\HelloWPF\ch16 독패널\bin\Debug\net7.0-windows\ch16 독패널.runtimeconfig.json
+F:\Study\HelloWPF\ch16 독패널\bin\Debug\net7.0-windows\ch16 독패널.dll
+F:\Study\HelloWPF\ch16 독패널\bin\Debug\net7.0-windows\ch16 독패널.pdb
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\App.g.cs
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\ch16 독패널_MarkupCompile.cache
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\ch16 독패널_MarkupCompile.lref
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\MainWindow.baml
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\ch16 독패널.g.resources
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\ch16 독패널.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\ch16 독패널.AssemblyInfoInputs.cache
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\ch16 독패널.AssemblyInfo.cs
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\ch16 독패널.csproj.CoreCompileInputs.cache
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\ch16 독패널.dll
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\refint\ch16 독패널.dll
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\ch16 독패널.pdb
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\ch16 독패널.genruntimeconfig.cache
+F:\Study\HelloWPF\ch16 독패널\obj\Debug\net7.0-windows\ref\ch16 독패널.dll
