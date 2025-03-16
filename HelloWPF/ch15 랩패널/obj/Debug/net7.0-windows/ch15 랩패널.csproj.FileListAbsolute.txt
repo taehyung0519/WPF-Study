@@ -18,3 +18,24 @@ F:\Study\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\refint\ch15 랩패널.
 F:\Study\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널.pdb
 F:\Study\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널.genruntimeconfig.cache
 F:\Study\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ref\ch15 랩패널.dll
+C:\develope\git\c#\HelloWPF\ch15 랩패널\bin\Debug\net7.0-windows\ch15 랩패널.exe
+C:\develope\git\c#\HelloWPF\ch15 랩패널\bin\Debug\net7.0-windows\ch15 랩패널.deps.json
+C:\develope\git\c#\HelloWPF\ch15 랩패널\bin\Debug\net7.0-windows\ch15 랩패널.runtimeconfig.json
+C:\develope\git\c#\HelloWPF\ch15 랩패널\bin\Debug\net7.0-windows\ch15 랩패널.dll
+C:\develope\git\c#\HelloWPF\ch15 랩패널\bin\Debug\net7.0-windows\ch15 랩패널.pdb
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\App.g.cs
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널_MarkupCompile.cache
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널_MarkupCompile.lref
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\MainWindow.baml
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널.g.resources
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널.GeneratedMSBuildEditorConfig.editorconfig
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널.AssemblyInfoInputs.cache
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널.AssemblyInfo.cs
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널.csproj.CoreCompileInputs.cache
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널.sourcelink.json
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널.dll
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\refint\ch15 랩패널.dll
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널.pdb
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ch15 랩패널.genruntimeconfig.cache
+C:\develope\git\c#\HelloWPF\ch15 랩패널\obj\Debug\net7.0-windows\ref\ch15 랩패널.dll

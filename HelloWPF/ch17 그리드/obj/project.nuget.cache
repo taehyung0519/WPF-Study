@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3u609zlJRs8=",
+  "dgSpecHash": "XujG2/70nvY=",
   "success": true,
-  "projectFilePath": "C:\\develop\\WPF\\HelloWPF\\ch17 그리드\\ch17 그리드.csproj",
+  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch17 그리드\\ch17 그리드.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

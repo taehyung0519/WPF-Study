@@ -24,3 +24,30 @@ F:\Study\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\Views\Pag
 F:\Study\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\Views\Page1.baml
 F:\Study\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\Views\Page2.baml
 F:\Study\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\Views\Page3.baml
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\bin\Debug\net7.0-windows\ch29 화면이동 프레임.exe
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\bin\Debug\net7.0-windows\ch29 화면이동 프레임.deps.json
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\bin\Debug\net7.0-windows\ch29 화면이동 프레임.runtimeconfig.json
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\bin\Debug\net7.0-windows\ch29 화면이동 프레임.dll
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\bin\Debug\net7.0-windows\ch29 화면이동 프레임.pdb
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\Views\Page1.g.cs
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\Views\Page2.g.cs
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\Views\Page3.g.cs
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\App.g.cs
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ch29 화면이동 프레임_MarkupCompile.cache
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ch29 화면이동 프레임_MarkupCompile.lref
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\MainWindow.baml
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\Views\Page1.baml
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\Views\Page2.baml
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\Views\Page3.baml
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ch29 화면이동 프레임.g.resources
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ch29 화면이동 프레임.GeneratedMSBuildEditorConfig.editorconfig
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ch29 화면이동 프레임.AssemblyInfoInputs.cache
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ch29 화면이동 프레임.AssemblyInfo.cs
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ch29 화면이동 프레임.csproj.CoreCompileInputs.cache
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ch29 화면이동 프레임.sourcelink.json
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ch29 화면이동 프레임.dll
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\refint\ch29 화면이동 프레임.dll
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ch29 화면이동 프레임.pdb
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ch29 화면이동 프레임.genruntimeconfig.cache
+C:\develope\git\c#\HelloWPF\ch28 화면이동 프레임\obj\Debug\net7.0-windows\ref\ch29 화면이동 프레임.dll

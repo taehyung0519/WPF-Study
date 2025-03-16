@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\develop\\WPF\\HelloWPF\\",
+  "WorkspaceRootPath": "C:\\develope\\git\\c#\\HelloWPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFE4FD92-2FA0-4AF1-81A2-FD287DC2E89B}|ch2 Label\\ch2 Label.csproj|c:\\develop\\wpf\\hellowpf\\ch2 label\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AFE4FD92-2FA0-4AF1-81A2-FD287DC2E89B}|ch2 Label\\ch2 Label.csproj|solutionrelative:ch2 label\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C655549-82A0-4538-98D3-53C82F9D2485}|ch35 MariaDB\uC5F0\uB3D9\\ch35 MariaDB\uC5F0\uB3D9.csproj|c:\\develop\\wpf\\hellowpf\\ch35 mariadb\uC5F0\uB3D9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C655549-82A0-4538-98D3-53C82F9D2485}|ch35 MariaDB\uC5F0\uB3D9\\ch35 MariaDB\uC5F0\uB3D9.csproj|solutionrelative:ch35 mariadb\uC5F0\uB3D9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C655549-82A0-4538-98D3-53C82F9D2485}|ch35 MariaDB\uC5F0\uB3D9\\ch35 MariaDB\uC5F0\uB3D9.csproj|c:\\develop\\wpf\\hellowpf\\ch35 mariadb\uC5F0\uB3D9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7C655549-82A0-4538-98D3-53C82F9D2485}|ch35 MariaDB\uC5F0\uB3D9\\ch35 MariaDB\uC5F0\uB3D9.csproj|solutionrelative:ch35 mariadb\uC5F0\uB3D9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{79ED40AC-CBC0-478E-8EB9-8254E028A605}|ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\ch29 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784.csproj|c:\\develope\\git\\c#\\hellowpf\\ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79ED40AC-CBC0-478E-8EB9-8254E028A605}|ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\ch29 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784.csproj|solutionrelative:ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,36 +20,12 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\develop\\WPF\\HelloWPF\\ch2 Label\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ch2 Label\\MainWindow.xaml",
-              "ToolTip": "C:\\develop\\WPF\\HelloWPF\\ch2 Label\\MainWindow.xaml",
-              "RelativeToolTip": "ch2 Label\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\develope\\git\\c#\\HelloWPF\\ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\MainWindow.xaml",
+              "ToolTip": "C:\\develope\\git\\c#\\HelloWPF\\ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\MainWindow.xaml",
+              "RelativeToolTip": "ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-10T12:23:18.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\develop\\WPF\\HelloWPF\\ch35 MariaDB\uC5F0\uB3D9\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ch35 MariaDB\uC5F0\uB3D9\\MainWindow.xaml",
-              "ToolTip": "C:\\develop\\WPF\\HelloWPF\\ch35 MariaDB\uC5F0\uB3D9\\MainWindow.xaml",
-              "RelativeToolTip": "ch35 MariaDB\uC5F0\uB3D9\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-10T12:15:19.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\develop\\WPF\\HelloWPF\\ch35 MariaDB\uC5F0\uB3D9\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ch35 MariaDB\uC5F0\uB3D9\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\develop\\WPF\\HelloWPF\\ch35 MariaDB\uC5F0\uB3D9\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ch35 MariaDB\uC5F0\uB3D9\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAUwIIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:15:19.101Z",
+              "WhenOpened": "2025-03-16T05:41:11.399Z",
               "EditorCaption": ""
             }
           ]

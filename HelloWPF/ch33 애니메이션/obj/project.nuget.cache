@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kmBcne+ihTw=",
+  "dgSpecHash": "bo7MQoKOx/8=",
   "success": true,
-  "projectFilePath": "C:\\develop\\WPF\\HelloWPF\\ch33 애니메이션\\ch33 애니메이션.csproj",
+  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch33 애니메이션\\ch33 애니메이션.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

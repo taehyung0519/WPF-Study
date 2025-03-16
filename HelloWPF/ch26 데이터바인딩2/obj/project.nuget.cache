@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "apHBYiaaY14=",
+  "dgSpecHash": "dgDaRJO1ydY=",
   "success": true,
-  "projectFilePath": "C:\\develop\\WPF\\HelloWPF\\ch26 데이터바인딩2\\ch26 데이터바인딩2.csproj",
+  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch26 데이터바인딩2\\ch26 데이터바인딩2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

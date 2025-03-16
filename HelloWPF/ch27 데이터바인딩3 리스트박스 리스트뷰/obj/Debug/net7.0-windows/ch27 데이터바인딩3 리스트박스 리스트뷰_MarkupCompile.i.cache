@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\develop\WPF\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\
+C:\develope\git\c#\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\obj\Debug\net7.0-windows\
 ch27_데이터바인딩3_리스트박스_리스트뷰
 none
 false
-TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\develop\WPF\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\App.xaml
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\develope\git\c#\HelloWPF\ch27 데이터바인딩3 리스트박스 리스트뷰\App.xaml
 11407045341
 
 5-1263375983
 198-1098425657
 MainWindow.xaml;
 
-True
+False
 

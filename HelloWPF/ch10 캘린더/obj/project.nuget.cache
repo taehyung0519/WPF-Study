@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uoNttOoxNho=",
+  "dgSpecHash": "LhYFqo19D5M=",
   "success": true,
-  "projectFilePath": "C:\\develop\\WPF\\HelloWPF\\ch10 캘린더\\ch10 캘린더.csproj",
+  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch10 캘린더\\ch10 캘린더.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

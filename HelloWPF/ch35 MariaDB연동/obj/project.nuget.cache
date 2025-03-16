@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lC1974tlZUM=",
+  "dgSpecHash": "3nSqaXq9Nxg=",
   "success": true,
-  "projectFilePath": "C:\\develop\\WPF\\HelloWPF\\ch35 MariaDB연동\\ch35 MariaDB연동.csproj",
+  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch35 MariaDB연동\\ch35 MariaDB연동.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Es1LQw5SYcY=",
+  "dgSpecHash": "+vQURYNtbgQ=",
   "success": true,
-  "projectFilePath": "C:\\develop\\WPF\\HelloWPF\\ch8 체크박스\\ch8 체크박스.csproj",
+  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch8 체크박스\\ch8 체크박스.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

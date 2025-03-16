@@ -1,0 +1,14 @@
+C:\develope\C#\workspace\c#Study\C#Basic\bin\Debug\net8.0\C#Basic.exe
+C:\develope\C#\workspace\c#Study\C#Basic\bin\Debug\net8.0\C#Basic.deps.json
+C:\develope\C#\workspace\c#Study\C#Basic\bin\Debug\net8.0\C#Basic.runtimeconfig.json
+C:\develope\C#\workspace\c#Study\C#Basic\bin\Debug\net8.0\C#Basic.dll
+C:\develope\C#\workspace\c#Study\C#Basic\bin\Debug\net8.0\C#Basic.pdb
+C:\develope\C#\workspace\c#Study\C#Basic\obj\Debug\net8.0\C#Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\develope\C#\workspace\c#Study\C#Basic\obj\Debug\net8.0\C#Basic.AssemblyInfoInputs.cache
+C:\develope\C#\workspace\c#Study\C#Basic\obj\Debug\net8.0\C#Basic.AssemblyInfo.cs
+C:\develope\C#\workspace\c#Study\C#Basic\obj\Debug\net8.0\C#Basic.csproj.CoreCompileInputs.cache
+C:\develope\C#\workspace\c#Study\C#Basic\obj\Debug\net8.0\C#Basic.dll
+C:\develope\C#\workspace\c#Study\C#Basic\obj\Debug\net8.0\refint\C#Basic.dll
+C:\develope\C#\workspace\c#Study\C#Basic\obj\Debug\net8.0\C#Basic.pdb
+C:\develope\C#\workspace\c#Study\C#Basic\obj\Debug\net8.0\C#Basic.genruntimeconfig.cache
+C:\develope\C#\workspace\c#Study\C#Basic\obj\Debug\net8.0\ref\C#Basic.dll

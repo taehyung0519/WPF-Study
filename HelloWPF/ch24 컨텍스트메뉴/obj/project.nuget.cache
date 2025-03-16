@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cKE2GgAwNmQ=",
+  "dgSpecHash": "kASEa50NCs8=",
   "success": true,
-  "projectFilePath": "C:\\develop\\WPF\\HelloWPF\\ch24 컨텍스트메뉴\\ch24 컨텍스트메뉴.csproj",
+  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch24 컨텍스트메뉴\\ch24 컨텍스트메뉴.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

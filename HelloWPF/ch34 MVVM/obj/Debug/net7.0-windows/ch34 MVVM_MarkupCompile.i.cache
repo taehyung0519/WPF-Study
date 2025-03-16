@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\develop\WPF\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\
+C:\develope\git\c#\HelloWPF\ch34 MVVM\obj\Debug\net7.0-windows\
 ch34_MVVM
 none
 false
-TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\develop\WPF\HelloWPF\ch34 MVVM\App.xaml
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\develope\git\c#\HelloWPF\ch34 MVVM\App.xaml
 2-131616439
 
 9633502897
 198-1098425657
 MainWindow.xaml;Views\PersonView.xaml;
 
-True
+False
 

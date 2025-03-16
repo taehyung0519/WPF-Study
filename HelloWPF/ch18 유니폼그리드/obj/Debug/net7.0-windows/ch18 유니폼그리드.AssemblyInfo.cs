@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ch18 유니폼그리드")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f4c578a6096657dbdde3e585fc7af71e169796b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ch18 유니폼그리드")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ch18 유니폼그리드")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
