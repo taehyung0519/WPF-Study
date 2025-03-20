@@ -1,0 +1,15 @@
+C:\develop\git\WPF-C#\c#Study\Delegate\bin\Debug\net8.0\Delegate.exe
+C:\develop\git\WPF-C#\c#Study\Delegate\bin\Debug\net8.0\Delegate.deps.json
+C:\develop\git\WPF-C#\c#Study\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+C:\develop\git\WPF-C#\c#Study\Delegate\bin\Debug\net8.0\Delegate.dll
+C:\develop\git\WPF-C#\c#Study\Delegate\bin\Debug\net8.0\Delegate.pdb
+C:\develop\git\WPF-C#\c#Study\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\develop\git\WPF-C#\c#Study\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+C:\develop\git\WPF-C#\c#Study\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+C:\develop\git\WPF-C#\c#Study\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+C:\develop\git\WPF-C#\c#Study\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+C:\develop\git\WPF-C#\c#Study\Delegate\obj\Debug\net8.0\Delegate.dll
+C:\develop\git\WPF-C#\c#Study\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+C:\develop\git\WPF-C#\c#Study\Delegate\obj\Debug\net8.0\Delegate.pdb
+C:\develop\git\WPF-C#\c#Study\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+C:\develop\git\WPF-C#\c#Study\Delegate\obj\Debug\net8.0\ref\Delegate.dll

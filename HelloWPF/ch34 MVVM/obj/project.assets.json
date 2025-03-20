@@ -8,24 +8,19 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\taehy\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\taehy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\develope\\git\\c#\\HelloWPF\\ch34 MVVM\\ch34 MVVM.csproj",
+      "projectUniqueName": "C:\\develop\\git\\WPF-C#\\HelloWPF\\ch34 MVVM\\ch34 MVVM.csproj",
       "projectName": "ch34 MVVM",
-      "projectPath": "C:\\develope\\git\\c#\\HelloWPF\\ch34 MVVM\\ch34 MVVM.csproj",
+      "projectPath": "C:\\develop\\git\\WPF-C#\\HelloWPF\\ch34 MVVM\\ch34 MVVM.csproj",
       "packagesPath": "C:\\Users\\taehy\\.nuget\\packages\\",
-      "outputPath": "C:\\develope\\git\\c#\\HelloWPF\\ch34 MVVM\\obj\\",
+      "outputPath": "C:\\develop\\git\\WPF-C#\\HelloWPF\\ch34 MVVM\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\taehy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -50,8 +45,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net7.0-windows7.0": {
@@ -93,7 +87,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

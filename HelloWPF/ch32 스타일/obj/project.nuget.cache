@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fjiAJmTHn20=",
+  "dgSpecHash": "RVojkQBZmyM=",
   "success": true,
-  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch32 스타일\\ch32 스타일.csproj",
+  "projectFilePath": "C:\\develop\\git\\WPF-C#\\HelloWPF\\ch32 스타일\\ch32 스타일.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hCKKiA2DbEc=",
+  "dgSpecHash": "Z6KveEQOogQ=",
   "success": true,
-  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch34 MVVM\\ch34 MVVM.csproj",
+  "projectFilePath": "C:\\develop\\git\\WPF-C#\\HelloWPF\\ch34 MVVM\\ch34 MVVM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

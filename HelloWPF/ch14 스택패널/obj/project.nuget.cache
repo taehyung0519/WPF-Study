@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "av8GQkVTGM0=",
+  "dgSpecHash": "+VVU/lRSQ70=",
   "success": true,
-  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch14 스택패널\\ch14 스택패널.csproj",
+  "projectFilePath": "C:\\develop\\git\\WPF-C#\\HelloWPF\\ch14 스택패널\\ch14 스택패널.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

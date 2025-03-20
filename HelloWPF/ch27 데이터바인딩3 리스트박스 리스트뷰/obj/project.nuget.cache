@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Em9hge0Pu/o=",
+  "dgSpecHash": "/SLw4uW+d8w=",
   "success": true,
-  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch27 데이터바인딩3 리스트박스 리스트뷰\\ch27 데이터바인딩3 리스트박스 리스트뷰.csproj",
+  "projectFilePath": "C:\\develop\\git\\WPF-C#\\HelloWPF\\ch27 데이터바인딩3 리스트박스 리스트뷰\\ch27 데이터바인딩3 리스트박스 리스트뷰.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

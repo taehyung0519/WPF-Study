@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4DK9spKwwK0=",
+  "dgSpecHash": "s7jf3zbc2K8=",
   "success": true,
-  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch18 유니폼그리드\\ch18 유니폼그리드.csproj",
+  "projectFilePath": "C:\\develop\\git\\WPF-C#\\HelloWPF\\ch18 유니폼그리드\\ch18 유니폼그리드.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

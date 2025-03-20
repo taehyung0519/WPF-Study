@@ -5,7 +5,11 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C#Basic", "C#Basic.csproj", "{15B6E586-4113-479F-8FE4-2A21FCA73C23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generic", "..\generic\generic.csproj", "{E115CD53-36A0-4F83-99C6-3A26577C9ABA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "generic", "..\generic\generic.csproj", "{E115CD53-36A0-4F83-99C6-3A26577C9ABA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{7FA1A72B-F720-4161-BAF0-85A2F1E3848A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "..\Delegate\Delegate.csproj", "{8B79CCB4-F153-488F-93C0-7400FB4C76E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,10 @@ Global
 		{E115CD53-36A0-4F83-99C6-3A26577C9ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E115CD53-36A0-4F83-99C6-3A26577C9ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E115CD53-36A0-4F83-99C6-3A26577C9ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B79CCB4-F153-488F-93C0-7400FB4C76E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B79CCB4-F153-488F-93C0-7400FB4C76E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B79CCB4-F153-488F-93C0-7400FB4C76E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B79CCB4-F153-488F-93C0-7400FB4C76E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

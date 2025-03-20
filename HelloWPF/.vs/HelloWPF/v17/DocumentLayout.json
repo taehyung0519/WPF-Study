@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\develope\\git\\c#\\HelloWPF\\",
+  "WorkspaceRootPath": "C:\\develop\\git\\WPF-C#\\HelloWPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79ED40AC-CBC0-478E-8EB9-8254E028A605}|ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\ch29 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784.csproj|c:\\develope\\git\\c#\\hellowpf\\ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{79ED40AC-CBC0-478E-8EB9-8254E028A605}|ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\ch29 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784.csproj|c:\\develop\\git\\wpf-c#\\hellowpf\\ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{79ED40AC-CBC0-478E-8EB9-8254E028A605}|ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\ch29 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784.csproj|solutionrelative:ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\develope\\git\\c#\\HelloWPF\\ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\develop\\git\\WPF-C#\\HelloWPF\\ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\MainWindow.xaml",
-              "ToolTip": "C:\\develope\\git\\c#\\HelloWPF\\ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\MainWindow.xaml",
+              "ToolTip": "C:\\develop\\git\\WPF-C#\\HelloWPF\\ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\MainWindow.xaml",
               "RelativeToolTip": "ch28 \uD654\uBA74\uC774\uB3D9 \uD504\uB808\uC784\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-16T05:41:11.399Z",

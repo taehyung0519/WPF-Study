@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HE2a2RnYrMQ=",
+  "dgSpecHash": "41HAnylDmMM=",
   "success": true,
-  "projectFilePath": "C:\\develope\\git\\c#\\HelloWPF\\ch30 탭컨트롤 모달 모달리스\\ch30 탭컨트롤 모달 모달리스.csproj",
+  "projectFilePath": "C:\\develop\\git\\WPF-C#\\HelloWPF\\ch30 탭컨트롤 모달 모달리스\\ch30 탭컨트롤 모달 모달리스.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\taehy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
