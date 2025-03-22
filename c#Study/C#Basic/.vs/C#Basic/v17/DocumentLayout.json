@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\develop\\git\\WPF-C#\\c#Study\\C#Basic\\",
+  "WorkspaceRootPath": "C:\\develope\\git\\c#\\c#Study\\C#Basic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B79CCB4-F153-488F-93C0-7400FB4C76E1}|..\\Delegate\\Delegate.csproj|c:\\develop\\git\\wpf-c#\\c#study\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B79CCB4-F153-488F-93C0-7400FB4C76E1}|..\\Delegate\\Delegate.csproj|c:\\develope\\git\\c#\\c#study\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +19,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\develop\\git\\WPF-C#\\c#Study\\Delegate\\Program.cs",
+              "DocumentMoniker": "C:\\develope\\git\\c#\\c#Study\\Delegate\\Program.cs",
               "RelativeDocumentMoniker": "..\\Delegate\\Program.cs",
-              "ToolTip": "C:\\develop\\git\\WPF-C#\\c#Study\\Delegate\\Program.cs",
+              "ToolTip": "C:\\develope\\git\\c#\\c#Study\\Delegate\\Program.cs",
               "RelativeToolTip": "..\\Delegate\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAywB0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:56:08.446Z",
+              "WhenOpened": "2025-03-22T05:26:46.298Z",
               "EditorCaption": ""
             }
           ]
