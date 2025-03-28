@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "..\Delegate\Delegate.csproj", "{8B79CCB4-F153-488F-93C0-7400FB4C76E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extensionMethod", "..\extentionMethod\extensionMethod.csproj", "{2C0E514A-33BF-4F69-8D4B-6B6F22DCF279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dynamic", "..\dynamic\dynamic.csproj", "{AC29E58B-D570-49D2-8A24-E76C62957E3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,14 @@ Global
 		{8B79CCB4-F153-488F-93C0-7400FB4C76E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B79CCB4-F153-488F-93C0-7400FB4C76E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B79CCB4-F153-488F-93C0-7400FB4C76E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0E514A-33BF-4F69-8D4B-6B6F22DCF279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0E514A-33BF-4F69-8D4B-6B6F22DCF279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0E514A-33BF-4F69-8D4B-6B6F22DCF279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0E514A-33BF-4F69-8D4B-6B6F22DCF279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC29E58B-D570-49D2-8A24-E76C62957E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC29E58B-D570-49D2-8A24-E76C62957E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC29E58B-D570-49D2-8A24-E76C62957E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC29E58B-D570-49D2-8A24-E76C62957E3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

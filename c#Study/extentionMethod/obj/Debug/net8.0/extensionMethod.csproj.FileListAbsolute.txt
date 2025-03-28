@@ -1,0 +1,15 @@
+C:\develope\git\c#\c#Study\extentionMethod\bin\Debug\net8.0\extensionMethod.exe
+C:\develope\git\c#\c#Study\extentionMethod\bin\Debug\net8.0\extensionMethod.deps.json
+C:\develope\git\c#\c#Study\extentionMethod\bin\Debug\net8.0\extensionMethod.runtimeconfig.json
+C:\develope\git\c#\c#Study\extentionMethod\bin\Debug\net8.0\extensionMethod.dll
+C:\develope\git\c#\c#Study\extentionMethod\bin\Debug\net8.0\extensionMethod.pdb
+C:\develope\git\c#\c#Study\extentionMethod\obj\Debug\net8.0\extensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\develope\git\c#\c#Study\extentionMethod\obj\Debug\net8.0\extensionMethod.AssemblyInfoInputs.cache
+C:\develope\git\c#\c#Study\extentionMethod\obj\Debug\net8.0\extensionMethod.AssemblyInfo.cs
+C:\develope\git\c#\c#Study\extentionMethod\obj\Debug\net8.0\extensionMethod.csproj.CoreCompileInputs.cache
+C:\develope\git\c#\c#Study\extentionMethod\obj\Debug\net8.0\extensionMethod.sourcelink.json
+C:\develope\git\c#\c#Study\extentionMethod\obj\Debug\net8.0\extensionMethod.dll
+C:\develope\git\c#\c#Study\extentionMethod\obj\Debug\net8.0\refint\extensionMethod.dll
+C:\develope\git\c#\c#Study\extentionMethod\obj\Debug\net8.0\extensionMethod.pdb
+C:\develope\git\c#\c#Study\extentionMethod\obj\Debug\net8.0\extensionMethod.genruntimeconfig.cache
+C:\develope\git\c#\c#Study\extentionMethod\obj\Debug\net8.0\ref\extensionMethod.dll

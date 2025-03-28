@@ -1,0 +1,15 @@
+C:\develope\git\c#\c#Study\dynamic\bin\Debug\net8.0\dynamic.exe
+C:\develope\git\c#\c#Study\dynamic\bin\Debug\net8.0\dynamic.deps.json
+C:\develope\git\c#\c#Study\dynamic\bin\Debug\net8.0\dynamic.runtimeconfig.json
+C:\develope\git\c#\c#Study\dynamic\bin\Debug\net8.0\dynamic.dll
+C:\develope\git\c#\c#Study\dynamic\bin\Debug\net8.0\dynamic.pdb
+C:\develope\git\c#\c#Study\dynamic\obj\Debug\net8.0\dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\develope\git\c#\c#Study\dynamic\obj\Debug\net8.0\dynamic.AssemblyInfoInputs.cache
+C:\develope\git\c#\c#Study\dynamic\obj\Debug\net8.0\dynamic.AssemblyInfo.cs
+C:\develope\git\c#\c#Study\dynamic\obj\Debug\net8.0\dynamic.csproj.CoreCompileInputs.cache
+C:\develope\git\c#\c#Study\dynamic\obj\Debug\net8.0\dynamic.sourcelink.json
+C:\develope\git\c#\c#Study\dynamic\obj\Debug\net8.0\dynamic.dll
+C:\develope\git\c#\c#Study\dynamic\obj\Debug\net8.0\refint\dynamic.dll
+C:\develope\git\c#\c#Study\dynamic\obj\Debug\net8.0\dynamic.pdb
+C:\develope\git\c#\c#Study\dynamic\obj\Debug\net8.0\dynamic.genruntimeconfig.cache
+C:\develope\git\c#\c#Study\dynamic\obj\Debug\net8.0\ref\dynamic.dll
